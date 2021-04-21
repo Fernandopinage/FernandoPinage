@@ -7,3 +7,6 @@
 
 In 2020 I won my first github seal <img src= "https://github.githubassets.com/images/modules/profile/badge--acv-64.png" width='25' height='25'><br>
 Another achievement was the LinkedIn skills assessment seal using the PHP language :trophy:
+<br><br><br>
+
+<img src= "https://github.githubassets.com/images/modules/logos_page/Octocat.png" width='25' height='25'><br>
