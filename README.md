@@ -14,5 +14,3 @@
 :trophy: Another achievement was the LinkedIn skills assessment seal using the PHP language 
 <br><br><br>
 
-
-![Github Stats]
