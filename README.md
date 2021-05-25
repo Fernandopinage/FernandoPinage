@@ -6,7 +6,3 @@
 :pirate_flag: I love the area of information security.<br>
 <br><hr>
 
-<br><hr><br>
-:trophy: Another achievement was the LinkedIn skills assessment seal using the PHP language 
-<br><br><br>
-
