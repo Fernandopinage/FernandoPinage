@@ -1,6 +1,6 @@
 :vulcan_salute: I'm Luiz Fernando! Welcome
 
-:medal_sports: - 1º Manaus Visão Hack 2021 - #hackathon<br>
+:medal_sports: 1º Manaus Visão Hack 2021 - #hackathon<br>
 :mortar_board: Graduation - Bachelor of Computer Science.<br>
 :trophy: Postgraduate in - Database. <br>
 :man_technologist: Perform backend function, knowledge of laravel, php, bootstrap, html5, CSS3, jquery. <br>
